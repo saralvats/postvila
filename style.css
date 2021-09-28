@@ -1004,9 +1004,6 @@ video {
     opacity: 0;
     outline: none;
 }
- .educ img:hover{
-    background: linear-gradient(rgb(0, 0, 0, 0), rgb(0, 0, 0, 0)),url(""); 
-}
 
 /* --------------------------------------------------------------review section----------------------------------------------------- */
 
