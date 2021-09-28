@@ -1005,7 +1005,7 @@ video {
     outline: none;
 }
 .educi:hover .educ img{
-    filter: opacity(0.7);
+    filter: opacity(0);
 }
 
 /* --------------------------------------------------------------review section----------------------------------------------------- */
