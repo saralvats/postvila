@@ -1004,8 +1004,8 @@ video {
     opacity: 0;
     outline: none;
 }
-.educi:hover .educ img{
-    filter: opacity(0);
+ .educ img:hover{
+     opacity:0;
 }
 
 /* --------------------------------------------------------------review section----------------------------------------------------- */
