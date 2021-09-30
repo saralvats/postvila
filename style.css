@@ -1716,15 +1716,16 @@ background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
         height: 17vh;
     } */
     .menu li{
-        font-size:1.4rem;
+        font-size:1.3rem;
         padding-bottom:0px;
     }
     .btn{
         font-size:1rem;
         padding-bottom:2px;
+        padding-left:0.5rem;
     }
     .btn .ext{
-        font-size:9px;
+        font-size:9px;   
     }
     
  } 
