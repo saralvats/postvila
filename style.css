@@ -221,7 +221,7 @@ body {
     justify-content: center;
     /* margin: 1rem; */
     margin: 0.5rem 0rem 0.3rem;
-    padding: 0.5rem 0px 0.5rem 1rem;
+    padding: 0.5rem 1px 0.5rem 1rem;
     text-align: center;
     text-transform: uppercase;
     transition: 0.3s;
